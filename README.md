@@ -19,4 +19,4 @@
 
 #### Q&A
 * http://area51.stackexchange.com/proposals/82636/ozone-platform
-** We still need the community to vote up a few more questions before we can provide answers
+* We still need the community to vote up a few more questions before we can provide answers
