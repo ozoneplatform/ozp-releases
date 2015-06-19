@@ -1,15 +1,15 @@
 # ozp-releases
-Repository locations for the Ozone Platform releases
-Documentation includeing Deployment Guide - https://github.com/ozone-development/ozp-documentation/tree/master/Documentation
+* Repository locations for the Ozone Platform releases
+* [Documentation includeing Deployment Guide](https://github.com/ozone-development/ozp-documentation/tree/master/Documentation)
 
-## ozp-center
+#### ozp-center
 https://github.com/ozone-development/ozp-center/releases
 
-## ozp-hud
+#### ozp-hud
 https://github.com/ozone-development/ozp-hud/releases
 
-## ozp-webtop
+#### ozp-webtop
 https://github.com/ozone-development/ozp-webtop/releases
 
-## ozp-iwc
+#### ozp-iwc
 https://github.com/ozone-development/ozp-iwc/releases
