@@ -12,7 +12,7 @@
 * https://github.com/ozone-development/ozp-webtop/releases
 
 ### ozp-rest
-* https://github.com/ozone-development/ozp-rest
+* https://github.com/ozone-development/ozp-rest/releases
 
 #### ozp-iwc
 * https://github.com/ozone-development/ozp-iwc/releases
