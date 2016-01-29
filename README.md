@@ -11,10 +11,7 @@
 #### ozp-webtop
 * https://github.com/ozone-development/ozp-webtop/releases
 
-### ozp-rest(Current Backend)
-* https://github.com/ozone-development/ozp-rest/releases
-
-### ozp-backend(Backend After April 2016 release)
+### ozp-backend
 * https://github.com/ozone-development/ozp-backend/releases
 
 #### ozp-iwc
