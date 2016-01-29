@@ -18,8 +18,7 @@
 * https://github.com/ozone-development/ozp-iwc/releases
 
 #### Q&A
-* http://area51.stackexchange.com/proposals/82636/ozone-platform
-* We still need the community to vote up a few more questions before we can provide answers - [FAQ](http://area51.stackexchange.com/faq)
+* https://groups.google.com/forum/#!forum/ozoneplatform-users
 
 # Legacy Ozone Releases (OWF/OMP)
 * OWF https://github.com/ozoneplatform/owf-framework/releases
