@@ -1,6 +1,7 @@
 # Ozone Platform Releases (OZP)
 * Repository locations for the Ozone Platform releases
 * [Documentation including Deployment Guide](https://github.com/ozone-development/ozp-documentation/tree/master/Documentation)
+* [Developer Setup Guide](https://github.com/ozone-development/ozp-documentation/wiki/Developer_Setup)
 
 #### ozp-center
 * https://github.com/ozone-development/ozp-center/releases
