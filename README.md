@@ -21,7 +21,4 @@
 #### Q&A
 * https://groups.google.com/forum/#!forum/ozoneplatform-users
 
-# Legacy Ozone Releases (OWF/OMP)
-* OWF https://github.com/ozoneplatform/owf-framework/releases
-* MarketPlace https://github.com/ozoneplatform/omp-marketplace/releases
-* Docs https://github.com/ozoneplatform/owf-omp-docs
+
