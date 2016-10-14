@@ -1,22 +1,22 @@
 # Ozone Platform Releases (OZP)
 * Repository locations for the Ozone Platform releases
-* [Documentation including Deployment Guide](https://github.com/aml-development/ozp-documentation/tree/master/Documentation)
-* [Developer Setup Guide](https://github.com/aml-development/ozp-documentation/wiki/Developer_Setup)
+* [Documentation including Deployment Guide](https://github.com/ozoneplatform/ozp-documentation/tree/master/Documentation)
+
 
 #### ozp-center
-* https://github.com/aml-development/ozp-center/releases
+* https://github.com/ozoneplatform/ozp-center/releases
 
 #### ozp-hud
-* https://github.com/aml-development/ozp-hud/releases
+* https://github.com/ozoneplatform/ozp-hud/releases
 
 #### ozp-webtop
-* https://github.com/aml-development/ozp-webtop/releases
+* https://github.com/ozoneplatform/ozp-webtop/releases
 
 ### ozp-backend
-* https://github.com/aml-development/ozp-backend/releases
+* https://github.com/ozoneplatform/ozp-backend/releases
 
 #### ozp-iwc
-* https://github.com/aml-development/ozp-iwc/releases
+* https://github.com/ozoneplatform/ozp-iwc/releases
 
 #### Q&A
 * https://groups.google.com/forum/#!forum/ozoneplatform-users
